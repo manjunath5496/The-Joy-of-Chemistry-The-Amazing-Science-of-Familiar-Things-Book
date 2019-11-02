@@ -1,3 +1,3 @@
-<h2>The Joy of Chemistry: The Amazing Science of Familiar Things </h2>
+<h2>The Joy of Chemistry: The Amazing Science of Familiar Things by Cathy Cobb</h2>
 
 <p>This book challenges the perception of <a href="https://en.wikipedia.org/wiki/Chemistry" target="_blank">chemistry</a> as too difficult to bother with and too clinical to be any fun. <strong>Cathy Cobb and Monty L. Fetterolf</strong>, both professional chemists and experienced educators, introduce readers to the magic, elegance, and, yes, joy of chemistry. From the fascination of fall foliage and fireworks, to the functioning of smoke detectors and computers, to the fundamentals of digestion (as when good pizza goes bad!), the authors illustrate the concepts of chemistry in terms of everyday experience, using familiar materials.</p>
